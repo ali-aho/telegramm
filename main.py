@@ -1,6 +1,6 @@
 from telegram import Update
-     from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
-     import asyncio
+from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
+import asyncio
 
      # توکن ربات
      TOKEN = "8183839514:AAHewCwhlwRa7S9FUU1Zh4aY7ir-fSr_kVg"
